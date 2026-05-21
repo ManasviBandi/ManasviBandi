@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ManasviBandi/ManasviBandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hi, i'm manasvi!!
 
-Here are some ideas to get you started:
+software engineering @ mcmaster university
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+rbc capital markets • mata (trading analytics)
+
+building trading dashboards for equities + fx markets
+
+---
+
+quant trading • probability • systems • ai
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-contact%20me-red?style=for-the-badge&logo=gmail)](mailto:bmanasvigrad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manasvi-bandi/)
+[![Devpost](https://img.shields.io/badge/devpost-projects-black?style=for-the-badge)](https://devpost.com/bmanasvi24)
+
+</div>
