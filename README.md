@@ -2,15 +2,9 @@
 
 ### hi, i'm manasvi!!
 
+---
+
 software engineering @ mcmaster university
-
----
-
-rbc capital markets • mata (trading analytics)
-
-building trading dashboards for equities + fx markets
-
----
 
 quant trading • probability • systems • ai
 
@@ -23,3 +17,11 @@ quant trading • probability • systems • ai
 [![Devpost](https://img.shields.io/badge/devpost-projects-black?style=for-the-badge)](https://devpost.com/bmanasvi24)
 
 </div>
+
+---
+
+currently:
+- 💻 building with Python, JavaScript, and AI  
+- 📊 interested in quant trading, markets, and probability  
+- 📈 contributing to a multi-asset trading analytics dashboard for equities & FX (MATA @ RBC Capital Markets)  
+- 🧩 enjoy solving problems and learning by building  
