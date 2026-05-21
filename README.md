@@ -6,7 +6,7 @@
 
 software engineering @ mcmaster university
 
-quant trading • probability • systems • ai
+ai • software development • quant systems • probability
 
 </div>
 
