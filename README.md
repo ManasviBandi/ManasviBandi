@@ -6,7 +6,7 @@
 
 software engineering @ mcmaster university
 
-ai • software development • quant systems • probability
+ai • software development • machine learning
 
 </div>
 
@@ -22,6 +22,5 @@ ai • software development • quant systems • probability
 
 currently:
 - 💻 building with Python, JavaScript, and AI  
-- 📊 interested in quant trading, markets, and probability  
-- 📈 contributing to a multi-asset trading analytics dashboard for equities & FX (MATA @ RBC Capital Markets)  
+- 📈 previously contributing to a multi-asset trading analytics dashboard for equities & FX (MATA @ RBC Capital Markets)  
 - 🧩 enjoy solving problems and learning by building  
