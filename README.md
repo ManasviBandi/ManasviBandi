@@ -1,10 +1,8 @@
- <div align="center">
+<div align="center">
 
-### hi, i'm manasvi!! 👋
+<img src="hero-2.gif" alt="hi, i'm manasvi! — software engineering · ai · machine learning" width="100%" />
 
 software engineering @ mcmaster university
-
-ai • software development • machine learning
 
 [![Email](https://img.shields.io/badge/contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmanasvigrad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasvi-bandi/)
@@ -25,8 +23,6 @@ ai • software development • machine learning
 
 ### tech stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,pytorch,git,docker&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ---
 
