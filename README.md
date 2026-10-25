@@ -27,7 +27,4 @@ software engineering @ mcmaster university
 ---
 
 <div align="center">
-
-*building things, one commit at a time.* ✨
-
 </div>
